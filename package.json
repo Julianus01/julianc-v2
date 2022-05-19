@@ -1,0 +1,7 @@
+{
+  "name": "julianc-v2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "sass --watch scss/custom.scss:css/custom.min.css css/kube.css:css/kube.min.css --style compressed"
+  }
+}
