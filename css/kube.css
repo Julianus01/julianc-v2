@@ -1415,7 +1415,7 @@ input.input-smaller {
 .navigation-toggle:after {
   position: absolute;
   z-index: 1;
-  top: 50%;
+  top: 57%;
   margin-top: -15px;
   left: 10px;
   content: "\2630";
